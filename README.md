@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 # 💫 About Me:
 Hi I am SATHYA R<br><br>🎓 Final-year ECE student passionate about Frontend Development<br>💻 Skilled in HTML, CSS, JavaScript, Java, and Git/GitHub<br>🌱 Currently learning React.js and UI/UX Design<br>🚀 Interested in building responsive and user-friendly web applications<br>📚 Continuously improving through projects and hands-on learning
